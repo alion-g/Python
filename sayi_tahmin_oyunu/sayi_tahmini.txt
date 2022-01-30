@@ -1,0 +1,3 @@
+yazdığımız bu kodda bilgisayarın 1 ile 100 arasında rastgele sectiği sayıyı tahmin etmeye çalışıyoruz,eğer tahminimiz bilgisayarın tuttuğu 
+sayının altında veya üstünde olması durumuna göre bilgisayar terminale aşağı veya yukarı yazdırarak ipucu veriyor,oyunu kazanmamız veya
+7 canımızın bitmesi durumunda ouun sonlanıyor ve bize tekrar oynayıp oynamak istemediğimiz soruluyor. 

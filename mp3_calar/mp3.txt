@@ -1,0 +1,2 @@
+yazdıgım bu kodda object oriented mantıgını kullanarak basit bi mp3 calar otomasyonu olusturmak istedim.kod bize rastgele sarkı secme
+silme,ses düzeyini ayarlama gibi olanaklar sunuyor.

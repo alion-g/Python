@@ -1,0 +1,5 @@
+bu örnekte iki farklı fonksiyonun ne kadar sürede calıstıgını bize gönderen bi kod yazdım.Bunu yaparken fonksiyon icinde fonksiyon
+tanımlayıp bu fonksiyonları cagırdım,fonksiyonları parametre olarak gönderdim ve decarator mantıgını kullandım
+
+    
+    

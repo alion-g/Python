@@ -55,6 +55,8 @@ class Oyun():
                 return False
             elif(self.tahta[0][2]==self.tahta[1][1]==self.tahta[2][0]!="#"):
                 return False
+            elif(self.sıra==9):
+                return False
         return True
     
     def calıstır(self):
@@ -63,7 +65,9 @@ class Oyun():
             self.hamle()
             self.check=self.kontrol()
             if(not self.check):
-                if self.sıra%2==1:
+                if(self.sıra==9):
+                    print("Oyun berabere")
+                elif self.sıra%2==1:
                     print("oyun bitti X kazandı")
                 else:
                     print("oyun bitti O kazandı")

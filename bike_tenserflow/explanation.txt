@@ -1,2 +1,0 @@
-In this project, I created a model and examined the bike features.then I compared the test prices with the estimates
-I calculated the accuracy rate by comparing the data predicted by the computer with the real data, giving the actual values.
